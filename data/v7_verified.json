@@ -1,0 +1,182 @@
+{
+  "geometry_unchanged": true,
+  "model_count": 28,
+  "tests": [
+    "browser_embedded_quick_scenes_desktop",
+    "browser_embedded_quick_scenes_mobile",
+    "landing_configurator"
+  ],
+  "webgl_hardware_tested": false,
+  "http_server_tested": false,
+  "note": "Chromium blocks localhost HTTP navigation in this environment; browser tests ran by injected HTML/CSS/JS and mocked model fetch with exact local GLBs",
+  "files": [
+    {
+      "name": "kvartira-graphite-now-daily.glb",
+      "geometry_sha256": "06fd0dce16fbc225dc31f1851351e0bf0a48408c7a3451a6e50d91fb78f963fe",
+      "meshes": 193,
+      "nodes": 194
+    },
+    {
+      "name": "kvartira-graphite-now-dinner.glb",
+      "geometry_sha256": "dcd8e0c9129f77927924366d35c41945000a8795a899b72ee05b4f51765efd09",
+      "meshes": 195,
+      "nodes": 196
+    },
+    {
+      "name": "kvartira-graphite-now-guest.glb",
+      "geometry_sha256": "58581c563dcc9ff84ed3cf8add8eaa0b0501d76f72dd0bac83c910e0dbd5c507",
+      "meshes": 191,
+      "nodes": 192
+    },
+    {
+      "name": "kvartira-graphite-school-daily.glb",
+      "geometry_sha256": "eaf71e0306a1ee182298d36e03bd0995a363f1d9f3df1cef6280ae3a7cc67fa8",
+      "meshes": 196,
+      "nodes": 197
+    },
+    {
+      "name": "kvartira-graphite-school-dinner.glb",
+      "geometry_sha256": "308f5733c56fca71575523282a75fd048cd60d1ef41f59585e66b0a7dbb000ff",
+      "meshes": 198,
+      "nodes": 199
+    },
+    {
+      "name": "kvartira-graphite-school-guest.glb",
+      "geometry_sha256": "4b830c34a81656661c1d20ab66d8ef54937da35e0bf9e1d538be531704b2b7b1",
+      "meshes": 194,
+      "nodes": 195
+    },
+    {
+      "name": "kvartira-graphite-two-daily.glb",
+      "geometry_sha256": "d2e88240131f0d164c3eea136e2381cd8defa812fdc6107a3a29ce2d4a5a3af6",
+      "meshes": 192,
+      "nodes": 193
+    },
+    {
+      "name": "kvartira-graphite-two-dinner.glb",
+      "geometry_sha256": "6e173a40d234503e515636714a08ef3f9de97ff54721bb621b148b69ce75970f",
+      "meshes": 194,
+      "nodes": 195
+    },
+    {
+      "name": "kvartira-graphite-two-guest.glb",
+      "geometry_sha256": "0de89abb9e4b80426ff5c675ea38fde33858752ff379c0b7f77f9b345d360a23",
+      "meshes": 190,
+      "nodes": 191
+    },
+    {
+      "name": "kvartira-japandi-now-daily.glb",
+      "geometry_sha256": "25fe081262d5cd8fe0a84afa0ba16a9f2a13b7f8575363a0895ed16ea983b658",
+      "meshes": 193,
+      "nodes": 194
+    },
+    {
+      "name": "kvartira-japandi-now-dinner.glb",
+      "geometry_sha256": "4eee6e608f337967c416485f581ddaee3031beced4ac574caa93e84bd807a777",
+      "meshes": 195,
+      "nodes": 196
+    },
+    {
+      "name": "kvartira-japandi-now-guest.glb",
+      "geometry_sha256": "04f15447b4b0479df5227769d0d4a526ffa253c86feaabb3d22d40d1e9fe4353",
+      "meshes": 191,
+      "nodes": 192
+    },
+    {
+      "name": "kvartira-japandi-school-daily.glb",
+      "geometry_sha256": "88359f4fcd2e8b2d95f25985582781903fd197a32aca518d95e9d3cb630a60ba",
+      "meshes": 196,
+      "nodes": 197
+    },
+    {
+      "name": "kvartira-japandi-school-dinner.glb",
+      "geometry_sha256": "911cca970b0b7e9e9044d50e893c63c60ac362df31b100d2fe9babb5f9d8f1eb",
+      "meshes": 198,
+      "nodes": 199
+    },
+    {
+      "name": "kvartira-japandi-school-guest.glb",
+      "geometry_sha256": "0b87028ca68aca6b7c4858ea659c941470038bf517efe9acfe4909efd95c02c1",
+      "meshes": 194,
+      "nodes": 195
+    },
+    {
+      "name": "kvartira-japandi-two-daily.glb",
+      "geometry_sha256": "66f63ff1faa5683135c32f18810c996e5e8ecade17a521579350a657f3c2a058",
+      "meshes": 192,
+      "nodes": 193
+    },
+    {
+      "name": "kvartira-japandi-two-dinner.glb",
+      "geometry_sha256": "c65d7661a7bbefef74b99cfe9b86b2a36b88db2b7f3bcb237d816aedfbf68733",
+      "meshes": 194,
+      "nodes": 195
+    },
+    {
+      "name": "kvartira-japandi-two-guest.glb",
+      "geometry_sha256": "c16ee3e397b7bb14081b9800def837fc8ce3c802011ce17d54277bdbbb885639",
+      "meshes": 190,
+      "nodes": 191
+    },
+    {
+      "name": "kvartira-planirovka.glb",
+      "geometry_sha256": "6096b05dc0c3787086e63cde990bded670575b716f719013ca8c6a9a624af74c",
+      "meshes": 65,
+      "nodes": 66
+    },
+    {
+      "name": "kvartira-warm-now-daily.glb",
+      "geometry_sha256": "52984c12188b0951450f6dbd6a475be9e2e1370c42c73b17d15497e79cbe4884",
+      "meshes": 193,
+      "nodes": 194
+    },
+    {
+      "name": "kvartira-warm-now-dinner.glb",
+      "geometry_sha256": "86a71666d45ebf67277ad2899b4c2b00bd0beec937caf726e8e8c393d747f735",
+      "meshes": 195,
+      "nodes": 196
+    },
+    {
+      "name": "kvartira-warm-now-guest.glb",
+      "geometry_sha256": "b699bbe3aefcb6166d73194e9e1abe8bf2b49b83c8ac1eb669162e0a87b8c608",
+      "meshes": 191,
+      "nodes": 192
+    },
+    {
+      "name": "kvartira-warm-school-daily.glb",
+      "geometry_sha256": "944784bcc7bd33802844153aaac2c8cd079eb2c26bc8853caa4f576a6125ca19",
+      "meshes": 196,
+      "nodes": 197
+    },
+    {
+      "name": "kvartira-warm-school-dinner.glb",
+      "geometry_sha256": "9c3a2950691559d65cff9e8f4b079daa3068dfaa4488f6f8dbaa6b2aecb416c3",
+      "meshes": 198,
+      "nodes": 199
+    },
+    {
+      "name": "kvartira-warm-school-guest.glb",
+      "geometry_sha256": "6d88a7d655ee73b15fab8474b7fce3a2e853b9400b8e08f5a2f5ff840207cdb2",
+      "meshes": 194,
+      "nodes": 195
+    },
+    {
+      "name": "kvartira-warm-two-daily.glb",
+      "geometry_sha256": "97970514e3fa3d39409e73ac461d98779df7cce359ae3e3c6b955a3cf2838d00",
+      "meshes": 192,
+      "nodes": 193
+    },
+    {
+      "name": "kvartira-warm-two-dinner.glb",
+      "geometry_sha256": "27d85c1ac0667c2826ac5f84b77044252557d85e72192d49ab7c484bc8664786",
+      "meshes": 194,
+      "nodes": 195
+    },
+    {
+      "name": "kvartira-warm-two-guest.glb",
+      "geometry_sha256": "ee076613bf018d0c806a5afd2bd1bdabdb7e35d82dc904e6b80337cc76292abd",
+      "meshes": 190,
+      "nodes": 191
+    }
+  ]
+}

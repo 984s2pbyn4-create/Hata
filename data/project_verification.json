@@ -1,0 +1,17 @@
+{
+  "project": "DARK TECH FAMILY v3",
+  "date": "2026-11-11",
+  "door_revision": {
+    "corridor": true,
+    "parents_bedroom": true,
+    "bedroom_door_position": "concept / requires measurement",
+    "wardrobe_added_new_structural_opening": false
+  },
+  "models": 19,
+  "furnished_models": 18,
+  "styles": 3,
+  "child_stages": 2,
+  "living_modes": 3,
+  "structure_identical_across_styles": true,
+  "browser_test": "Canvas fallback verified with staged GLB data; WebGL/hosted GitHub Pages not verified"
+}

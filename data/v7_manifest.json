@@ -1,0 +1,36 @@
+{
+  "version": "v7",
+  "shell": "same GLB mesh and buffer bytes as v6",
+  "model_count": 28,
+  "pbr_materials": [
+    "paint",
+    "timber",
+    "stone",
+    "upholstery",
+    "glass",
+    "brushed-metal",
+    "foliage",
+    "wall-matte",
+    "ceramic",
+    "matte-black",
+    "accent-light",
+    "neutral"
+  ],
+  "photo_refs": [
+    "living",
+    "parents",
+    "children",
+    "wardrobe",
+    "bathroom",
+    "balcony"
+  ],
+  "quick_scenes": [
+    "family",
+    "guest",
+    "cooking",
+    "work",
+    "movie",
+    "school"
+  ],
+  "source": "v6"
+}

@@ -1,0 +1,71 @@
+{
+  "A": {
+    "daily": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    },
+    "guest": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    },
+    "dinner": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    }
+  },
+  "B": {
+    "daily": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    },
+    "guest": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    },
+    "dinner": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    }
+  },
+  "C": {
+    "daily": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    },
+    "guest": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    },
+    "dinner": {
+      "hard_rect_overlap": [],
+      "limitations": [
+        "Door swings and human circulation not surveyed; unfolded sofa is near kitchen fronts",
+        "6-seat mode limits balcony use"
+      ]
+    }
+  }
+}

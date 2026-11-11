@@ -1,0 +1,194 @@
+[
+  {
+    "style": "warm",
+    "view": "whole",
+    "path": "assets/model_views/warm_whole.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "top",
+    "path": "assets/model_views/warm_top.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "kitchen",
+    "path": "assets/model_views/warm_kitchen.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "living",
+    "path": "assets/model_views/warm_living.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "bedroom",
+    "path": "assets/model_views/warm_bedroom.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "bath",
+    "path": "assets/model_views/warm_bath.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "hall",
+    "path": "assets/model_views/warm_hall.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "closet",
+    "path": "assets/model_views/warm_closet.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "warm",
+    "view": "balcony",
+    "path": "assets/model_views/warm_balcony.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "whole",
+    "path": "assets/model_views/japandi_whole.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "top",
+    "path": "assets/model_views/japandi_top.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "kitchen",
+    "path": "assets/model_views/japandi_kitchen.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "living",
+    "path": "assets/model_views/japandi_living.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "bedroom",
+    "path": "assets/model_views/japandi_bedroom.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "bath",
+    "path": "assets/model_views/japandi_bath.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "hall",
+    "path": "assets/model_views/japandi_hall.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "closet",
+    "path": "assets/model_views/japandi_closet.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "japandi",
+    "view": "balcony",
+    "path": "assets/model_views/japandi_balcony.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "whole",
+    "path": "assets/model_views/graphite_whole.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "top",
+    "path": "assets/model_views/graphite_top.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "kitchen",
+    "path": "assets/model_views/graphite_kitchen.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "living",
+    "path": "assets/model_views/graphite_living.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "bedroom",
+    "path": "assets/model_views/graphite_bedroom.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "bath",
+    "path": "assets/model_views/graphite_bath.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "hall",
+    "path": "assets/model_views/graphite_hall.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "closet",
+    "path": "assets/model_views/graphite_closet.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "style": "graphite",
+    "view": "balcony",
+    "path": "assets/model_views/graphite_balcony.webp",
+    "kind": "3d-model-snapshot"
+  },
+  {
+    "scene": "family",
+    "path": "assets/model_views/scene_family.webp",
+    "kind": "interactive-scene-snapshot"
+  },
+  {
+    "scene": "guest",
+    "path": "assets/model_views/scene_guest.webp",
+    "kind": "interactive-scene-snapshot"
+  },
+  {
+    "scene": "cooking",
+    "path": "assets/model_views/scene_cooking.webp",
+    "kind": "interactive-scene-snapshot"
+  },
+  {
+    "scene": "work",
+    "path": "assets/model_views/scene_work.webp",
+    "kind": "interactive-scene-snapshot"
+  },
+  {
+    "scene": "movie",
+    "path": "assets/model_views/scene_movie.webp",
+    "kind": "interactive-scene-snapshot"
+  },
+  {
+    "scene": "school",
+    "path": "assets/model_views/scene_school.webp",
+    "kind": "interactive-scene-snapshot"
+  }
+]

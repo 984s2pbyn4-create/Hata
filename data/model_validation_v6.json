@@ -1,0 +1,331 @@
+{
+  "model_count": 27,
+  "all_structural_digests_equal": true,
+  "structural_digest": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+  "checked_models": [
+    {
+      "file": "kvartira-warm-now-daily.glb",
+      "nodes": 193,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-now-guest.glb",
+      "nodes": 191,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-now-dinner.glb",
+      "nodes": 195,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-two-daily.glb",
+      "nodes": 192,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-two-guest.glb",
+      "nodes": 190,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-two-dinner.glb",
+      "nodes": 194,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-school-daily.glb",
+      "nodes": 196,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-school-guest.glb",
+      "nodes": 194,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-warm-school-dinner.glb",
+      "nodes": 198,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-now-daily.glb",
+      "nodes": 193,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-now-guest.glb",
+      "nodes": 191,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-now-dinner.glb",
+      "nodes": 195,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-two-daily.glb",
+      "nodes": 192,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-two-guest.glb",
+      "nodes": 190,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-two-dinner.glb",
+      "nodes": 194,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-school-daily.glb",
+      "nodes": 196,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-school-guest.glb",
+      "nodes": 194,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-japandi-school-dinner.glb",
+      "nodes": 198,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-now-daily.glb",
+      "nodes": 193,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-now-guest.glb",
+      "nodes": 191,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-now-dinner.glb",
+      "nodes": 195,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-two-daily.glb",
+      "nodes": 192,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-two-guest.glb",
+      "nodes": 190,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-two-dinner.glb",
+      "nodes": 194,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-school-daily.glb",
+      "nodes": 196,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-school-guest.glb",
+      "nodes": 194,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    },
+    {
+      "file": "kvartira-graphite-school-dinner.glb",
+      "nodes": 198,
+      "walls": 57,
+      "geometry_sha256": "b9a01c5426174a7499b7e335ab8fa14b3d48b7d7ef6a2437284ce57f19c43fc6",
+      "movable": {
+        "feature_peninsula": 3,
+        "feature_laptop": 1,
+        "feature_screen": 2,
+        "feature_wardrobe": 1
+      }
+    }
+  ]
+}

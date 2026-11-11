@@ -1,0 +1,55 @@
+{
+  "project": "DARK TECH FAMILY",
+  "revision": "FINAL v8",
+  "tests": {
+    "file_count": 164,
+    "glb": {
+      "count": 28,
+      "structural_wall_meshes": 57,
+      "same_wall_geometry": true,
+      "total_scene_nodes_min": 65,
+      "total_scene_nodes_max": 198
+    },
+    "closet_doors": {
+      "count": 2,
+      "entries": [
+        {
+          "wall": "w_l_e",
+          "note": "Существующий второй вход в гардеробную из родительской спальни; подтверждён пользователем; положение и ширина ориентировочные"
+        },
+        {
+          "wall": "w_closet_n",
+          "note": "Существующий вход в гардеробную из коридора; подтверждён пользователем; точная ширина уточняется"
+        }
+      ],
+      "exact_positions_verified_on_site": false
+    },
+    "html_local_assets": {
+      "html_count": 5,
+      "broken_literal_links": 0
+    },
+    "model_render_gallery": {
+      "views": 27,
+      "mechanism_scenarios": 6,
+      "all_files_present": true
+    },
+    "browser": {
+      "desktop_and_mobile": true,
+      "room_filters": true,
+      "scenario_buttons": 6,
+      "style_switches": true,
+      "compare": true,
+      "floor_plan_toggle": true,
+      "gallery": true,
+      "webgl_hardware_verified": false,
+      "fallback_canvas_verified": true
+    }
+  },
+  "caveats": [
+    "Концептуальные фотореалистичные изображения не доказывают геометрию из обмерного плана.",
+    "Контрольные ракурсы выполнены из GLB, но имеют техническое, не фотографическое качество.",
+    "Некоторые размеры дверей и высота потолка 2,72 м условны.",
+    "Физические механизмы, безопасность и электрика требуют отдельной проверки.",
+    "Режим WebGL2 не проверен на реальном пользовательском оборудовании, в тестовом браузере использован резервный Canvas."
+  ]
+}
